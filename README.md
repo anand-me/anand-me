@@ -9,13 +9,13 @@
              <div class="two"><img align="left" width=240px height=240px padding: 40px; src='https://akshayanand.info/Conferences/Research/transition_to_turbulence.gif'></div> 
              <div class="two"><img align="left" width=240px height=240px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
              <div class="two"><img align="left" width=240px height=240px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
-             <div class="two"><img align="left" width=240px height=240px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
-             <div class="two"><img align="left" width=240px height=240px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
-             <div class="two"><img align="left" width=240px height=240px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
-             <div class="two"><img align="center" width=160px height=160px padding: 40px; src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
+             <div class="two"><img align="left" width=240px height=240px src='https://akshayanand.info/Conferences/Research/active_particles.gif'></div> 
+             
+             
+             
                       
             
-        </td>
+     
 
  
 
@@ -41,7 +41,9 @@ You can click the Preview link to take a look at your changes.
 <img align="left" width="55%"  src="https://github-readme-stats.vercel.app/api?username=mridul037&show_icons=true&hide_border=true" alt="mridul" /> </p>
 <br/>
 <br/>
-
+<div class="two"><img align="left" width=240px height=240px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
+             <div class="two"><img align="left" width=240px height=240px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
+             <div class="two"><img align="center" width=160px height=160px padding: 40px; src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
 <pre>" />
 
 <img align="left" width="55%"  src="https://github-readme-stats.vercel.app/api?username=mridul037&show_icons=true&hide_border=true" alt="mridul" /> </p>

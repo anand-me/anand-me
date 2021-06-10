@@ -4,8 +4,7 @@
 - 📫 Feel free to contact me at: me.akanand@gmail.com
 - <td width="25%">
             <div class="one">
-            <div class="two"><img width=160px height=160px src='https://akshay23sept.github.io/Conferences/Research/at.gif' width="10px"> 
-           
+            <div class="two"><img width=160px height=160px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
             <div class="two"><img width=160px height=160px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div>           
             </div>
         </td>

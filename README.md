@@ -6,7 +6,7 @@
  
 <td width="25%">
             <div class="one">
-            <div class="two"><img align="left" width=160px height=160px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
+            <div class="two"><img align="left" width=160px height=160px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> nbsp; nbsp;
              <div class="two"><img align="center" width=160px height=160px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
             <div class="two"><img align="right" width=160px height=160px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div>           
             </div>

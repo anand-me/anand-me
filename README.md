@@ -3,35 +3,10 @@
 - 🌱 I’m currently working on <code>Boundary Layer Problems</code>, <code>Fluid Structure Interaction</code>, <code>Computational Fluid Dynamics</code>.
 - 📫 Feel free to contact me at: me.akanand@gmail.com
 
-**Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on **Node.js,React.js,Angular,MySql,Rxjs**
-
-- 🌱 I am currently learning **IPFS(peer2peer),docker,Flutter,Data Science**. 
-
-- 👯 I’m looking to collaborate on **anything free and open source**.
-
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-
-- 💬Ask me about react, Angular and nodejs
-
-- 📫 How to reach me: mridulshukla037@gmail.com;
 
  
-<br/>
-<img align="right" width="40%"  alt="GIF" src="**Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on **Node.js,React.js,Angular,MySql,Rxjs**
-
-- 🌱 I am currently learning **IPFS(peer2peer),docker,Flutter,Data Science**. 
-
-- 👯 I’m looking to collaborate on **anything free and open source**.
-
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-
-- 💬Ask me about react, Angular and nodejs
-
-- 📫 How to reach me: mridulshukla037@gmail.com;
 
  
 <br/>

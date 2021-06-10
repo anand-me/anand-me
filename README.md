@@ -8,7 +8,7 @@
             <div class="one">
             <div class="two"><img align="left" width=160px height=160px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
              <div class="two"><img align="center" width=160px height=160px padding: 40px; src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
-            <div class="two"><img align="right" width=160px height=160px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div>           
+                      
             </div>
         </td>
 
@@ -30,7 +30,7 @@ anand-me/anand-me is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 
-<br/>
+<br/><div class="two"><img align="right" width=160px height=160px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
 <img align="right" width="40%"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <img align="left" width="55%"  src="https://github-readme-stats.vercel.app/api?username=mridul037&show_icons=true&hide_border=true" alt="mridul" /> </p>

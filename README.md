@@ -3,7 +3,8 @@
 - 🌱 I’m currently working on <code>Boundary Layer Problems</code>, <code>Fluid Structure Interaction</code>, <code>Computational Fluid Dynamics</code>.
 - 📫 Feel free to contact me at: me.akanand@gmail.com
 
-
+<td><img src="https://github.com/anand-me/Simulation-approach-in-C-and-Python/blob/master/images/example.png" height=125 width=125></img></td>
+<td><img src="https://github.com/anand-me/Simulation-approach-in-C-and-Python/blob/master/images/example.png" height=125 width=125></img></td>
 
  
 

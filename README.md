@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Feel free to contact me at: me.akanand@gmail.com
-- https://media.giphy.com/media/ZXlaCCmz4XY5QgUEhw/giphy.gif
+- ![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
+
 
 <!---
 anand-me/anand-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

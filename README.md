@@ -2,10 +2,10 @@
 - 👀 I’m interested in <code>Fluid Dynamics</code>, CFD, Heat Transfer, <code>Applied Mathematics</code>, ML applied to fluid dynamics and related mechanical and aerospace engineering related arenas.
 - 🌱 I’m currently working on <code>Boundary Layer Problems</code>, <code>Fluid Structure Interaction</code>, <code>Computational Fluid Dynamics</code>.
 - 📫 Feel free to contact me at: me.akanand@gmail.com
-
+<tr>
 <td><img src="https://github.com/anand-me/Simulation-approach-in-C-and-Python/blob/master/images/example.png" height=125 width=125></img></td>
 <td><img src="https://github.com/anand-me/Simulation-approach-in-C-and-Python/blob/master/images/example.png" height=125 width=125></img></td>
-
+</tr>
  
 
 

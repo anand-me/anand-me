@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Feel free to contact me at: me.akanand@gmail.com
-- ![gif from nerdy.dev](https://akshay23sept.github.io/Conferences/Research/aerodynamic_effort.gif)
+
 
 
 <!---

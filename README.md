@@ -9,7 +9,7 @@
              <div class="two"><img align="left" width=160px height=160px padding: 550px; src='https://akshayanand.info/Conferences/Research/DBVf.gif'></div> 
              <div class="two"><img align="left" width=160px height=160px padding: 550px; src='https://akshayanand.info/Conferences/Research/at.gif'></div> 
              <div class="two"><img align="left" width=160px height=160px padding: 550px; src='https://akshayanand.info/Conferences/Research/transition_to_turbulence.gif'></div> 
-             <div class="two"><img align="left" width=160px height=160px padding: 550px; src='https://akshayanand.info/Conferences/Research/PSH.gif'></div> 
+             <div class="two"><img align="left" width=160px height=160px padding: 550px; src='https://akshayanand.info/Conferences/Research/EUjI.gif'></div> 
              
             
 

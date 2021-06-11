@@ -13,12 +13,13 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
              <div class="two"><img align="left" width=270px height=160px padding: 750px; src='https://akshayanand.info/Conferences/Research/PSH.gif'> </div>  
                <p align="center">
 
-               # Find me on the web <g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌎</g-emoji>  
+               
+                                       
+ <!----
+# Find me on the web <g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌎</g-emoji>  
 - Published research on [Google Scholar,](https://scholar.google.com/citations?user=5pY2xYQAAAAJ&hl=en&authuser=2) [Researchgate](https://www.researchgate.net/profile/Akshay-Anand-5) and [Orcid](https://orcid.org/0000-0002-5951-1724) 
 - Learning in public / open source at [Dev](https://dev.to/anandme)                        
 - Sharing updates on [Linkedin](https://www.linkedin.com/in/akshay-anand-596472148/) and [Twitter](https://twitter.com/akshay23sept)
-                                       
- <!----
                          &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div> 
 
 <code>Note</code>: The codes are parallelized and uses multiple CPU's which reduces the computation and elapsed time.

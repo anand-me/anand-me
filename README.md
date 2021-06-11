@@ -7,10 +7,10 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
 
 
 <td width="25%">
-             <div class="two"><img align="left" width=120px height=120px padding: 750px; src='https://akshayanand.info/Conferences/Research/DBVf.gif'></div>
-             <div class="two"><img align="left" width=120px height=120px padding: 750px; src='https://akshayanand.info/Conferences/Research/at.gif'></div> 
-             <div class="two"><img align="left" width=120px height=120px padding: 750px; src='https://akshayanand.info/Conferences/Research/transition_to_turbulence.gif'></div> 
-             <div class="two"><img align="left" width=120px height=120px padding: 750px; src='https://akshayanand.info/Conferences/Research/PSH.gif'></div> 
+             <div class="two"><img align="left" width=150px height=150px padding: 750px; src='https://akshayanand.info/Conferences/Research/DBVf.gif'></div>
+             <div class="two"><img align="left" width=150px height=150px padding: 750px; src='https://akshayanand.info/Conferences/Research/at.gif'></div> 
+             <div class="two"><img align="left" width=150px height=150px padding: 750px; src='https://akshayanand.info/Conferences/Research/transition_to_turbulence.gif'></div> 
+             <div class="two"><img align="left" width=150px height=150px padding: 750px; src='https://akshayanand.info/Conferences/Research/PSH.gif'></div> 
              
  
   # Find me on the web <a target="_blank" rel="noopener noreferrer" href=" https://github.com/anand-me/anand-me.github.io/blob/master/Favicon/globe.gif"><img src=" https://github.com/anand-me/anand-me.github.io/blob/master/Favicon/globe.gif" width="40px" style="max-width:100%;"></a>

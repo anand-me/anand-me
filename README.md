@@ -12,7 +12,7 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
              <div class="two"><img align="left" width=170px height=160px padding: 750px; src='https://akshayanand.info/Conferences/Research/PSH.gif'></div> 
             
 # Find me on the web <g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌎</g-emoji>
-  - Research :[Google Scholar,](https://scholar.google.com/citations?user=5pY2xYQAAAAJ&hl=en&authuser=2)
+  - Research :[Google Scholar,](https://scholar.google.com/citations?user=5pY2xYQAAAAJ&hl=en&authuser=2) [Researchgate](https://www.researchgate.net/profile/Akshay-Anand-5) and [Orcid](https://orcid.org/0000-0002-5951-1724) 
                
                                        
  <!----

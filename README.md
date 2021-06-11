@@ -13,16 +13,7 @@
              <div class="two"><img align="left" width=160px height=160px padding: 550px; src='https://akshayanand.info/Conferences/Research/PSH.gif'></div> 
              
             
-<details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:283946448,&quot;originating_url&quot;:&quot;https://github.com/mridul037/mridul037&quot;,&quot;user_id&quot;:85633774}}" data-hydro-click-hmac="ba141008f109114093d602998e10518efc8522b988127e342442cab7885b8195" href="https://github.com/mridul037/mridul037#hi-im-mridul" aria-current="page">Hi, I'm Mridul</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:283946448,&quot;originating_url&quot;:&quot;https://github.com/mridul037/mridul037&quot;,&quot;user_id&quot;:85633774}}" data-hydro-click-hmac="ba141008f109114093d602998e10518efc8522b988127e342442cab7885b8195" href="https://github.com/mridul037/mridul037#a-passionate-developer-from-india">A passionate developer from India</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
+Hi,<a target="_blank" rel="noopener noreferrer" href="./mridul037_mridul037_files/Hi.gif"><img src="./mridul037_mridul037_files/Hi.gif" width="40px" style="max-width:100%;"></a> I'm Mridul</h3>
              
              
              

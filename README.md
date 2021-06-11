@@ -15,8 +15,11 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
    ## Find me on the web <g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌎</g-emoji>:         
 
              
- <a href="https://twitter.com/akshay23sept" rel="nofollow"><img align="left" width=60px height=60px padding: 150px; src="https://github.com/anand-me/anand-me.github.io/blob/master/Favicon/Twitter.png" alt="Twitter" data-canonical-src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/akshay23sept" style="max-width:100%;"></a></p>           
-  <a href="https://www.linkedin.com/in/akshay-anand-596472148/" rel="nofollow"><img align="left" width=60px height=60px src="https://www.linkedin.com/in/akshay-anand-596472148/Linkedin.png" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-Linkedin-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/akshay-anand-596472148" style="max-width:100%;"></a></p>             
+ <a href="https://twitter.com/akshay23sept" rel="nofollow"><img align="left" width=60px height=60px padding: 150px; src="https://github.com/anand-me/anand-me.github.io/blob/master/Favicon/Twitter.png" alt="Twitter" data-canonical-src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/akshay23sept" style="max-width:100%;"></a></p>  
+            
+            
+            
+               
              
              
  <!---- END SAMPLE PROJECT BLOCK           
@@ -24,6 +27,7 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
 <!---
 anand-me/anand-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<a href="https://www.linkedin.com/in/akshay-anand-596472148/" rel="nofollow"><img align="left" width=60px height=60px src="https://www.linkedin.com/in/akshay-anand-596472148/Linkedin.png" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-Linkedin-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/akshay-anand-596472148" style="max-width:100%;"></a></p>
  
 
 

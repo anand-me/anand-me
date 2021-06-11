@@ -6,9 +6,9 @@
  
 <td width="25%">
             <div class="one">
-             <div class="two"><img align="left" width=310px height=240px padding: 450px; src='https://akshayanand.info/Conferences/Research/DBVf.gif'></div> 
-             <div class="two"><img align="left" width=310px height=240px padding: 450px; src='https://akshayanand.info/Conferences/Research/DBVf.gif'></div> 
-             <div class="two"><img align="left" width=310px height=240px padding: 450px; src='https://akshayanand.info/Conferences/Research/DBVf.gif'></div> 
+             <div class="two"><img align="left" width=310px height=240px padding: 550px; src='https://akshayanand.info/Conferences/Research/DBVf.gif'></div> 
+             <div class="two"><img align="left" width=310px height=240px padding: 550px; src='https://akshayanand.info/Conferences/Research/solver.gif'></div> 
+             <div class="two"><img align="left" width=310px height=240px padding: 550px; src='https://akshayanand.info/Conferences/Research/DBVf.gif'></div> 
             
 
              

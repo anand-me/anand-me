@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/akshay-anand-596472148/" rel="nofollow"><img align="left" width=60px height=60px src="https://www.linkedin.com/in/akshay-anand-596472148/Linkedin.png" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-Linkedin-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/akshay-anand-596472148" style="max-width:100%;"></a></p>
  
 
-<a href="https://www.linkedin.com/in/danielcaballero796/" rel="nofollow"><img src="./danielcaballero796 (Daniel Caballero)_files/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d64616e69656c636162616c6c65726f2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-danielcaballero-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/danielcaballero796/" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/akshay-anand-596472148/" rel="nofollow"><img src="https://www.linkedin.com/in/akshay-anand-596472148/Linkedin.png" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-danielcaballero-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/akshay-anand-596472148/" style="max-width:100%;"></a>
 -------->  
 
 

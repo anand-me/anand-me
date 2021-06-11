@@ -1,7 +1,7 @@
 - 👋 Hi there! I’m Akshay Anand, a PhD student in <code>Computational Mathematics</code> at Florida State University, Department of Mechanical Engineering.
 - 👀 I’m interested in <code>Fluid Dynamics</code>, CFD, Turbulence Modelling, <code>Applied Mathematics</code>, Heat Transfer, ML applied to fluid dynamics as well as related mechanical and aerospace engineering related arenas.
 - 🌱 I’m currently working on <code>Boundary Layer Problems</code>, <code>Fluid Structure Interaction</code>, <code>Computational Fluid Dynamics</code>.
-- - 💞️ I’m looking to collaborate on <code>machine learning</code> applied to turbulent flow and <code>FSI</code> problems.
+- - 💞️ I’m looking to collaborate on <code>machine learning</code> applied to turbulent flows and <code>FSI</code> problems.
 - 📫 Feel free to contact me at: me.akanand@gmail.com
 
  

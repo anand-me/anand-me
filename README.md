@@ -12,6 +12,7 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
              <div class="two"><img align="left" width=170px height=160px padding: 750px; src='https://akshayanand.info/Conferences/Research/PSH.gif'></div> 
             
 # Find me on the web <g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌎</g-emoji>
+  - Research :
                
                                        
  <!----

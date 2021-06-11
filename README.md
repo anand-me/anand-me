@@ -13,6 +13,7 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
             
 # Find me on the web <g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌎</g-emoji>
   - Research :[Google Scholar,](https://scholar.google.com/citations?user=5pY2xYQAAAAJ&hl=en&authuser=2) [Researchgate](https://www.researchgate.net/profile/Akshay-Anand-5) and [Orcid](https://orcid.org/0000-0002-5951-1724) 
+ - Social : [Linkedin](https://www.linkedin.com/in/akshay-anand-596472148/)
                
                                        
  <!----

@@ -37,9 +37,6 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 
 <br/><div class="two"><img align="right" width=160px height=160px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
-<img align="right" width="40%"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
-
-<pre>
 --->

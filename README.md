@@ -2,7 +2,7 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
 - 👀 I’m interested in <code>Fluid Dynamics</code>, CFD, Turbulence Modelling, <code>Applied Mathematics</code>, Heat Transfer, ML applied to fluid dynamics as well as several other mechanical and aerospace engineering related arenas.
 - 🌱 I’m currently working on <code>Boundary Layer Problems</code>, <code>Fluid Structure Interaction</code>, <code>Computational Fluid Dynamics</code>.
 -  💞️ I’m looking to collaborate on <code>machine learning</code> applied to turbulent flows and <code>FSI</code> problems. 
-- 📫 Feel free to contact me at: me.akanand@gmail.com
+- 📫 Feel free to contact me at: me.akanand@gmail.com [Linkedin](https://www.linkedin.com/in/akshay-anand-596472148/)
 
 
 <td width="25%">

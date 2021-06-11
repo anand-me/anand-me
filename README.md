@@ -7,7 +7,7 @@
 <td width="25%">
             <div class="one">
              <div class="two"><img align="left" width=310px height=240px padding: 450px; src='https://akshayanand.info/Conferences/Research/transition_to_turbulence.gif'></div> 
-             <div class="two"><img align="left" width=310px height=240px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
+             <div class="two"><img align="center" width=310px height=240px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
              <div class="two"><img align="right" width=310px height=240px padding: 40px; src='https://akshayanand.info/Conferences/Research/solver.gif'></div>
              
              

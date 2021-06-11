@@ -6,11 +6,11 @@
  
 <td width="25%">
             <div class="one">
-             <div class="two"><img align="left" width=240px height=240px padding: 40px; src='https://akshayanand.info/Conferences/Research/transition_to_turbulence.gif'></div> 
+             <div class="two"><img align="left" width=240px height=240px padding: 70px; src='https://akshayanand.info/Conferences/Research/transition_to_turbulence.gif'></div> 
+             <div class="two"><img align="left" width=240px height=240px padding: 70px; src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
               <div class="two"><img align="left" width=500px height=500px padding: 40px; src='https://akshayanand.info/Conferences/Research/test.gif'></div> 
-             <div class="two"><img align="left" width=240px height=240px padding: 40px; src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
-             <div class="two"><img align="left" width=240px height=240px src='https://akshayanand.info/Conferences/Research/aerodynamic_effort.gif'></div> 
-             <div class="two"><img align="right" width=400px height=400px src='https://akshayanand.info/Conferences/Research/DBVf.gif></div> 
+             
+             
              
              
  <!---- END SAMPLE PROJECT BLOCK           

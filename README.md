@@ -9,7 +9,7 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
              <div class="two"><img align="left" width=230px height=180px padding: 750px; src='https://akshayanand.info/Conferences/Research/DBVf.gif'></div>
              <div class="two"><img align="left" width=230px height=180px padding: 750px; src='https://akshayanand.info/Conferences/Research/at.gif'></div> 
              <div class="two"><img align="left" width=230px height=180px padding: 750px; src='https://akshayanand.info/Conferences/Research/transition_to_turbulence.gif'></div> 
-             <div class="two"><img align="left" width=230px height=180px padding: 750px; src='https://akshayanand.info/Conferences/Research/PSH.gif'></div> 
+             <div class="two"><img align="left" width=240px height=180px padding: 750px; src='https://akshayanand.info/Conferences/Research/PSH.gif'></div> 
              
  
   # Find me on the web

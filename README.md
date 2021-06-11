@@ -9,7 +9,7 @@
              <div class="two"><img align="left" width=160px height=160px padding: 550px; src='https://akshayanand.info/Conferences/Research/DBVf.gif'></div> 
              <div class="two"><img align="left" width=160px height=160px padding: 550px; src='https://akshayanand.info/Conferences/Research/at.gif'></div> 
              <div class="two"><img align="left" width=160px height=160px padding: 550px; src='https://akshayanand.info/Conferences/Research/transition_to_turbulence.gif'></div> 
-             <div class="two"><img align="left" width=160px height=160px padding: 550px; src='https://akshayanand.info/Conferences/Research/DBVf.gif'></div> 
+             <div class="two"><img align="left" width=160px height=160px padding: 550px; src='https://akshayanand.info/Conferences/Research/EUjI.gif'></div> 
              
             
 
@@ -25,8 +25,6 @@ anand-me/anand-me is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...  transition_to_turbulence.gif at.gif solver.gif EUjI.gif EmTx.gif HSxX.gif
 
-<br/><div class="two"><img align="right" width=160px height=160px src='https://akshay23sept.github.io/Conferences/Research/at.gif'></div> 
-             <div class="two"><img align="right" width=310px height=240px src='https://akshayanand.info/Conferences/Research/at.gif'></div>
 
 -------->  
 

@@ -13,9 +13,7 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
              <div class="two"><img align="left" width=160px height=160px padding: 100px; src='https://akshayanand.info/Conferences/Research/PSH.gif'>
                          <div class="two"><img align="left" width=160px height=160px padding: 550px; src='https://akshayanand.info/Conferences/Research/DBVf.gif'></div> 
                          &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div> 
-                        <p align="center">
-<code>Note</code>: The codes are parallelized and uses multiple CPU's which reduces the computation and elapsed time.
-</p>
+                        
                           
    # Find me on the web <g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌎</g-emoji>  
 - Published research on [Google Scholar,](https://scholar.google.com/citations?user=5pY2xYQAAAAJ&hl=en&authuser=2) [Researchgate](https://www.researchgate.net/profile/Akshay-Anand-5) and [Orcid](https://orcid.org/0000-0002-5951-1724) 
@@ -32,7 +30,9 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
 <!---
 anand-me/anand-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
+<p align="center">
+<code>Note</code>: The codes are parallelized and uses multiple CPU's which reduces the computation and elapsed time.
+</p>
 -------->  
 
 

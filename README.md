@@ -13,9 +13,7 @@
              <div class="two"><img align="left" width=160px height=160px padding: 550px; src='https://akshayanand.info/Conferences/Research/PSH.gif'></div> 
              
             
-<div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-
-          <details-menu class="SelectMenu" role="menu">
+<details-menu class="SelectMenu" role="menu">
     <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
       <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
 

@@ -38,7 +38,7 @@ anand-me/anand-me is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
  # 
 -  Published research on [Google Scholar,](https://scholar.google.com/citations?user=5pY2xYQAAAAJ&hl=en&authuser=2) [Researchgate](https://www.researchgate.net/profile/Akshay-Anand-5) and [Orcid](https://orcid.org/0000-0002-5951-1724) 
-- Learning in public / open source at [Dev](https://dev.to/anandme) 
+- Learning in public / open source at [
 
 -------->  
 

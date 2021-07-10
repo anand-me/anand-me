@@ -24,7 +24,7 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
 anand-me/anand-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
  # 
--  Published research on [Google Scholar,](https://scholar.google.com/citatins?user=5pY2xYQAAAJ&hl&auths) 
+-  Published research on [Google Scholar,](https//scholar.google.com/citatins?user=5pY2xYQAAAJ&hl&auths) 
 
 -------->  
 

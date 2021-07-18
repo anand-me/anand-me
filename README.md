@@ -16,6 +16,7 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
              <div class="two"><img align="left" width=150px height=150px padding: 750px; src='https://akshayanand.info/Conferences/Research/at.gif'></div> 
              <div class="two"><img align="left" width=150px height=150px padding: 750px; src='https://akshayanand.info/Conferences/Research/transition_to_turbulence.gif'></div> 
              <div class="two"><img align="left" width=150px height=150px padding: 750px; src='https://github.com/anand-me/anand-me.github.io/blob/master/Conferences/Research/Turbulent_Couette_Poiseuille_Flow.gif'></div> 
+  
              <div class="two"><img align="left" width=150px height=150px padding: 750px; src='https://akshayanand.info/Conferences/Research/PSH.gif'></div>
  
  <!---- END SAMPLE PROJECT BLOCK           
@@ -24,7 +25,7 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
 anand-me/anand-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
  # 
--  Published research on [Google Scholar,](//shola.google.com/citatins?user=5pY2xYQAAAJ&hl&auths) 
+-  Published research on [Google Scholar,](//shola.google.com/citatins?user=5pY2xYQAAAJ&hl&aut) 
 
 -------->  
 

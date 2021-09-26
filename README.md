@@ -22,18 +22,12 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
     [![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626)](https://dinhanhthi.com/jupyter-notebook)
 - Frontend : <br />
     [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)](https://dinhanhthi.com/#web_development)
-    [![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)](https://dinhanhthi.com/#web_development)
-    [![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)](https://dinhanhthi.com/tags#react)
-    [![Angular](https://img.shields.io/badge/-Angular-EEE?style=flat-square&logo=angular&logoColor=DD0031)](https://dinhanhthi.com/tags#react)
-    [![Gatsby](https://img.shields.io/badge/-Gabtsy-eee?style=flat-square&logo=Gatsby&logoColor=663399)](https://dinhanhthi.com/tags#gatsbyjs)
-    [![Jekyll](http://img.shields.io/badge/-Jekyll-eee?style=flat-square&logo=jekyll&logoColor=a83232)](https://dinhanhthi.com/jekyll-tips)
-    [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)](https://dinhanhthi.com/#web_development)
-    [![11ty](http://img.shields.io/badge/-11ty-eee?style=flat-square&logo=eleventy&logoColor=000)](https://dinhanhthi.com/11ty-nunjucks)
     [![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=flat-square&logo=wordpress&logoColor=21759B)](https://dinhanhthi.com/tags#wordpress)
 
-    <!-- [![Flask](http://img.shields.io/badge/-Flask-eee?style=flat-square&logo=flask&logoColor=000)](https://dinhanhthi.com/) -->
-    [![GraphQL](https://img.shields.io/badge/-GraphQL-eee?style=flat-square&logo=graphql&logoColor=E10098)](https://dinhanhthi.com/)
-    [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)](https://dinhanhthi.com/)
+    
+   
+    
+
 - OS & IDE & Tools : <br />
     [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://dinhanhthi.com/visual-studio-code)
     [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)](https://dinhanhthi.com/tags#linux)

@@ -3,7 +3,7 @@ Hi there! <a target="_blank" rel="noopener noreferrer" href="https://github.com/
 - 🌱 I’m currently working on <code>Boundary Layer Problems</code>, <code>Fluid-Structure Interaction</code>, <code>Computational Fluid Dynamics</code>.
 -  💞️ I’m looking to collaborate on <code>machine learning</code> applied to turbulent flows and <code>FSI</code> problems. 
 - 📫 Feel free to contact me at: me.akanand@gmail.com 
-- 
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=anand-me" alt="anand-me&style=flat-square" /> </p>
 
 # Find me on the web <a target="_blank" rel="noopener noreferrer" href="https://github.com/anand-me/anand-me.github.io/blob/master/Favicon/globe.gif"><img src="https://github.com/anand-me/anand-me.github.io/blob/master/Favicon/globe.gif" width="40px" style="max-width:100%;"></a>

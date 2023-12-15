@@ -7,7 +7,8 @@ Hi there!
 
 
 
--  Published research on [Google Scholar,]([https://scholar.google.com/citations?user=5pY2xYQAAAAJ&hl=en&authuser=2]([https://scholar.google.com/citations?user=s4z1oq8AAAAJ&hl=en](https://scholar.google.com/citations?user=s4z1oq8AAAAJ&hl=en))) [Researchgate](https://www.researchgate.net/profile/Akshay-Anand-5) and [Orcid](https://orcid.org/0000-0002-5951-1724) 
+
+-  <p>Published research on <a href="https://scholar.google.com/citations?user=s4z1oq8AAAAJ&hl=en">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Akshay-Anand-5">ResearchGate</a>, and <a href="https://orcid.org/0000-0002-5951-1724">ORCID</a>.</p>
 - Learning in public / open source at [Dev](https://dev.to/anandme) 
 - Sharing updates on [Linkedin](https://www.linkedin.com/in/akshay-anand-596472148/) and [Twitter](https://twitter.com/akshay23sept)
 

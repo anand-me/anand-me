@@ -1,7 +1,7 @@
 Hi there! 
-- 👀 I’m interested in <code>Fluid Dynamics</code>, CFD, Turbulence Modelling, <code>Applied Mathematics</code>, Heat Transfer, ML applied to fluid dynamics as well as several other mechanical, bio-mechanics and aerospace engineering related arenas.
-- 🌱 I’m currently working on <code>Boundary Layer Problems</code>, <code>Fluid-Structure Interaction</code>, <code>Computational Fluid Dynamics</code>.
--  💞️ I’m looking to collaborate on <code>machine learning</code> applied to turbulent flows and <code>FSI</code> problems.
+- 👀 I’m interested in <code> Computational Fluid Dynamics</code>, CFD, Turbulence Modelling, <code>Applied Mathematics</code>, Computer Vision, ML applied to fluid dynamics as well as several other mechanical, computer science and aerospace engineering related arenas.
+- 🌱 I’m currently working on <code>Boundary Layer Problems</code>, <code>Fluid-Structure Interaction</code>, <code>Computational Fluid Dynamics</code>,  <code>Generative AI</code>, .
+-  💞️ I’m looking to collaborate on <code>machine learning</code> applied to fluid flows, <code>FSI</code>,  <code>Data-Driven Techniques</code>, and  <code>Epidemiology Modeling</code>.
 - 📫 Feel free to contact me at: me.akanand@gmail.com 
 
 
